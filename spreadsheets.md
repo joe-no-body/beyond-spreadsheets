@@ -121,6 +121,10 @@ like a nightmare.
   render spreadsheets dynamically is a key feature in what I'm
   envisioning.
 
+* Literate programming
+* Notion
+* Confluence
+
 We Can Do Better
 ----------------
 
